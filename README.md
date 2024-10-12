@@ -1,50 +1,9 @@
-<style>
-  body {
-      font-family: Arial, sans-serif;
-      background-color: #f4f4f4;
-      color: #333;
-      margin: 0;
-      padding: 0;
-  }
-  .container {
-      max-width: 800px;
-      margin: 50px auto;
-      background-color: #fff;
-      padding: 20px;
-      border-radius: 8px;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  }
-  h1, h2 {
-      color: #2c3e50;
-  }
-  h1 {
-      text-align: center;
-  }
-  h2 {
-      border-bottom: 2px solid #eee;
-      padding-bottom: 10px;
-      margin-bottom: 20px;
-  }
-  p {
-      line-height: 1.6;
-  }
-  .section {
-      margin: 20px 0;
-  }
-  a {
-      color: #3498db;
-      text-decoration: none;
-  }
-  .footer {
-      text-align: center;
-      padding-top: 20px;
-      font-size: 0.9em;
-      color: #777;
-  }
-</style>
+---
+layout: default
+title: "David Smith"
+theme: jekyll-theme-slate
+---
 
-<div class="container">
-    
 # David Smith
 
 ### Entrepreneur & Strategic Investor
@@ -53,9 +12,9 @@
 
 ## About Our Company
 
-Founded on April 13, 2015, our company is dedicated to supporting the entrepreneurial vision and strategic investments of David Smith. With a focus on growth-oriented investments across technology, real estate, and innovative startups, we empower David to execute his vision of sustainable and impactful growth. Our team’s expertise spans software development, business strategy, and finance, enabling us to drive success across diverse sectors.
+Founded on April 13, 2015, Vexti LLC is dedicated to supporting the entrepreneurial vision and strategic investments of David Smith. With a focus on growth-oriented investments across technology, real estate, and innovative startups, we empower David to execute his vision of sustainable and impactful growth. Our team’s expertise spans software development, business strategy, and finance, enabling us to drive success across diverse sectors.
 
-Over the past decade, we have facilitated the execution of more than 17 private investments and deployed millions of dollars into public equities. Our company prides itself on supporting smart, strategic decision-making with a focus on long-term value creation.
+Over the past decade, we have supported David in executing more than 17 private investments and deploying millions of dollars into public equities. Vexti LLC prides itself on providing strategic guidance and facilitating smart decision-making with a strong focus on long-term value creation.
 
 ---
 
@@ -80,6 +39,5 @@ To explore potential partnerships or learn more about our company’s approach, 
 ---
 
 <div class="footer">
-    &copy; 2024 David Smith. All rights reserved.
-</div>
+    &copy; 2024 Vexti LLC. All rights reserved.
 </div>
