@@ -1,3 +1,50 @@
+<style>
+  body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      color: #333;
+      margin: 0;
+      padding: 0;
+  }
+  .container {
+      max-width: 800px;
+      margin: 50px auto;
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  h1, h2 {
+      color: #2c3e50;
+  }
+  h1 {
+      text-align: center;
+  }
+  h2 {
+      border-bottom: 2px solid #eee;
+      padding-bottom: 10px;
+      margin-bottom: 20px;
+  }
+  p {
+      line-height: 1.6;
+  }
+  .section {
+      margin: 20px 0;
+  }
+  a {
+      color: #3498db;
+      text-decoration: none;
+  }
+  .footer {
+      text-align: center;
+      padding-top: 20px;
+      font-size: 0.9em;
+      color: #777;
+  }
+</style>
+
+<div class="container">
+    
 # David Smith
 
 ### Entrepreneur & Strategic Investor
@@ -32,4 +79,7 @@ To explore potential partnerships or learn more about our company’s approach, 
 
 ---
 
-&copy; 2024 David Smith. All rights reserved.
+<div class="footer">
+    &copy; 2024 David Smith. All rights reserved.
+</div>
+</div>
