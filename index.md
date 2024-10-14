@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Vexti LLC"
-theme: slate
+theme: default
 ---
 
 # David Smith
