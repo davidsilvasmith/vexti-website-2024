@@ -1,1 +1,6 @@
-theme: https://raw.githubusercontent.com/davidsilvasmith/vexti-website-2024/refs/heads/main/_layouts
+defaults:
+  - scope:
+      path: ""  # This applies to all pages in the root directory
+      type: "posts"  # This applies to posts specifically
+    values:
+      layout: "default"  # Replace with your actual layout name
