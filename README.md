@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "David Smith"
-theme: jekyll-theme-slate
+theme: default
 ---
 
 # David Smith
