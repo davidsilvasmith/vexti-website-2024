@@ -1,6 +1,12 @@
 defaults:
   - scope:
-      path: ""  # This applies to all pages in the root directory
-      type: "posts"  # This applies to posts specifically
+      path: ""  # Applies to all pages
+      type: "pages"  # Applies to pages specifically
     values:
-      layout: "default"  # Replace with your actual layout name
+      layout: "default"  # Use the name of your layout file
+
+  - scope:
+      path: ""  # Applies to all posts
+      type: "posts"  # Applies to posts specifically
+    values:
+      layout: "default"  # Use the name of your layout file
