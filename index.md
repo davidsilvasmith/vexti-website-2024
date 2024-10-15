@@ -46,7 +46,4 @@ To explore potential partnerships or learn more about our company’s approach, 
   .footer {
     display: none;
   }
-    .outer {
-    display: none;
-}
 </style>
