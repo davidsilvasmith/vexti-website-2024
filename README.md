@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "David Smith"
-theme: style
+theme: default
 ---
 
 # David Smith
