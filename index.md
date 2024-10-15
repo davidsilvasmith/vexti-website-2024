@@ -41,3 +41,13 @@ To explore potential partnerships or learn more about our company’s approach, 
 <div class="footer">
     &copy; 2024 Vexti LLC. All rights reserved.
 </div>
+
+<style>
+#header_wrap {
+display: none;
+}
+
+#footer_wrap {
+display: none;
+}
+</style>
