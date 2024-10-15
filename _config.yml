@@ -9,4 +9,4 @@ defaults:
       path: ""  # Applies to all posts
       type: ""  # Applies to posts specifically
     values:
-      layout: "style"  # Use the name of your layout file
+      layout: "default"  # Use the name of your layout file
