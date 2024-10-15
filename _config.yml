@@ -3,7 +3,7 @@ defaults:
       path: ""  # Applies to all pages
       type: ""  # Applies to pages specifically
     values:
-      layout: "style"  # Use the name of your layout file
+      layout: "default"  # Use the name of your layout file
 
   - scope:
       path: ""  # Applies to all posts
