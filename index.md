@@ -20,7 +20,8 @@ theme: premium
     <h2 style="color: #243B55; font-size: 2.4em; margin-bottom: 20px;">About Our Company</h2>
     <p style="line-height: 1.8; font-size: 1.2em; color: #333;">
         Established on <strong>April 13, 2015</strong>, Vexti LLC offers tailored family office services 
-        that align with entrepreneurial vision and strategic investments. We specialize in 
+        that align with entrepreneurial vision and strategic investments. We help families with over ten million 
+        in investable assets. We specialize in 
         <strong>technology, real estate, and innovative startups</strong>, empowering sustainable 
         and impactful growth.
     </p>
