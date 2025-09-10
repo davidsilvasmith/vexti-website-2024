@@ -74,8 +74,26 @@ theme: premium
 </section>
 
 <div style="text-align: center; margin-top: 20px; padding: 20px; background: #141E30; color: white; border-radius: 5px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);">
-    <span>&copy; 2024 Vexti LLC. All rights reserved.</span>
+    <span>&copy; <span id="copyright-year"></span> Vexti LLC. All rights reserved.</span>
 </div>
+
+<script>
+/* Single-year, flips at Detroit midnight on Jan 1 */
+(function () {
+  try {
+    const year = new Intl.DateTimeFormat('en-US', {
+      year: 'numeric',
+      timeZone: 'America/Detroit'
+    }).format(new Date());
+    const el = document.getElementById('copyright-year');
+    if (el) el.textContent = year;
+  } catch (e) {
+    // Fallback if Intl/timeZone unsupported
+    const el2 = document.getElementById('copyright-year');
+    if (el2) el2.textContent = String(new Date().getFullYear());
+  }
+})();
+</script>
 
 <style>
 /* Font and Global Styling */
